@@ -13,8 +13,8 @@
 // limitations under the License.
 
 // TODO(CodelabUser): Create an OAuth App
-const githubClientId = 'YOUR_GITHUB_CLIENT_ID_HERE';
-const githubClientSecret = 'YOUR_GITHUB_CLIENT_SECRET_HERE';
+const githubClientId = '9a64b0221a96e478bb0a';
+const githubClientSecret = '0b2a3b775284d7c0f3eda3bbe684aa52ab20ef09';
 
 // OAuth scopes for repository and user information
 const githubScopes = ['repo', 'read:org'];
